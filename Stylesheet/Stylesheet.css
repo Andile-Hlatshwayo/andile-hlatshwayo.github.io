@@ -649,5 +649,11 @@ span{
         width: 90%;
         margin: 0 auto;
     }
+     .service-info p{
+        font-size: small;
+    }
+    .service-info h4{
+        font-size: large;
+    }
 }
 
