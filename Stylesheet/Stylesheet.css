@@ -217,7 +217,7 @@ span{
 }
 @keyframes words{
     0%, 20%{
-        content: "NMU student";
+        content: "student at NMU";
     }
     21%, 40%{
         content: "Full stack developer";
